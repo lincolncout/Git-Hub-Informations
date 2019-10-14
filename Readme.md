@@ -31,3 +31,8 @@ Se quiser salvar mudanças = git commit -m "Add Reame.md"
 git log = informações dos arquivos
 git log -- decorate = informações dos branchs
 git log --author="Lincoln" = busca de determinado autor
+
+git shortlog = informações sobre cada contrinuinte
+git shortlog -sm = pessoa + quant de commit
+git log --graph = informações das mudanças em cada branch
+
