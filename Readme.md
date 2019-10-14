@@ -26,7 +26,9 @@ precisa fazer um git add
 
 Se quiser salvar mudanças = git commit -m "Add Reame.md"
 
-5) git log = utilizar bastante para ver as informações
+5) git log:
+
+git log = utilizar bastante para ver as informações
 
 git log = informações dos arquivos
 git log -- decorate = informações dos branchs
@@ -37,3 +39,6 @@ git shortlog -sm = pessoa + quant de commit
 git log --graph = informações das mudanças em cada branch
 
 git show  = ir no git log, buscar o numero do commit e ver as alterações feitas
+
+6) git diff
+
