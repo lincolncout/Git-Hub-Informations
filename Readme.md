@@ -45,4 +45,20 @@ git show  = ir no git log, buscar o numero do commit e ver as alterações feita
 git diff= mostrar as diferenças feitas no git para perceber as diferenças feitas na última versão
 
 git diff --name-only = dizer o nome do arquivo que foi modificado
-gsggfsgfsgfsgfsggf
+
+7) desfazendo coisas
+
+git checkout Readme.md = voltar o arquivo para antes da edição caso faça merda
+
+git add e logo depois
+git reset HEAD Readme.md = tirar arquivo do pronto para ser checado
+
+
+TOMAR CUIDADO:
+
+git reset --soft = qual commit eu quero retornar(ele volta para staged)
+
+git reset --mixed = qual commit eu quero retornar (ele volta para diff)
+
+git reset --hard = mata as informações do último commit
+
