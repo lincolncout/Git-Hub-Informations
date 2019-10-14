@@ -42,3 +42,7 @@ git show  = ir no git log, buscar o numero do commit e ver as alterações feita
 
 6) git diff
 
+git diff= mostrar as diferenças feitas no git para perceber as diferenças feitas na última versão
+
+git diff --name-only = dizer o nome do arquivo que foi modificado
+gsggfsgfsgfsgfsggf
