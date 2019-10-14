@@ -25,3 +25,9 @@ arquivo qeu ainda não foi salvo
 precisa fazer um git add 
 
 Se quiser salvar mudanças = git commit -m "Add Reame.md"
+
+5) git log
+
+git log = informações dos arquivos
+git log -- decorate = informações dos branchs
+git log --author="Lincoln" = busca de determinado autor
