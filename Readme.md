@@ -65,3 +65,6 @@ git reset --mixed = qual commit eu quero retornar (ele volta para diff)
 
 git reset --hard = mata as informações do último commit
 
+8)Como fazer modificação e mandar direto para o git hub
+
+git push origin master
