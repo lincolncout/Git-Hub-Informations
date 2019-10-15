@@ -47,7 +47,7 @@ git show  = ir no git log, buscar o numero do commit e ver as alterações feita
 
 git diff= mostrar as diferenças feitas no git para perceber as diferenças feitas na última versão
 
-git diff --name-only = dizer o nome do arquivo que foi modificado
+git diff --name-only = dizer o nome do arquivo que foi modificado 
 
 7) desfazendo coisas
 
@@ -68,3 +68,7 @@ git reset --hard = mata as informações do último commit
 8)Como fazer modificação e mandar direto para o git hub
 
 git push origin master
+
+9) Como clonar alguma coisa do git hub para uma pasta local
+
+na home:git clone arquivo clonado nome da pasta
