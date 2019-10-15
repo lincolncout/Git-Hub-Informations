@@ -1,5 +1,8 @@
 #GitHub
 
+git init
+cd .git/
+
 1) git-config:
 
 
