@@ -67,7 +67,12 @@ git reset --hard = mata as informações do último commit
 
 8)Como fazer modificação e mandar direto para o git hub
 
-git push origin master
+git remote add origin git@github.com:lincolnanc/gitHubInformations.git
+git push -u origin master
+
+Informações desse push
+    git remote
+    git remote -v
 
 9) Como clonar alguma coisa do git hub para uma pasta local
 
