@@ -1,5 +1,7 @@
 #GitHub
 
+Informações sobre alguns comandos de git-hub para uso pessoal
+
 git init
 cd .git/
 
@@ -20,7 +22,7 @@ git add Readme.md = adicionar Readme.md no git
 
 git status = informações do git atual
 
-4) quando salvar algo aqui:
+4) como salvar algo?
 
 Changes not staged for commit:
 arquivo qeu ainda não foi salvo
