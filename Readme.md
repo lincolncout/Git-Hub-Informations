@@ -53,7 +53,7 @@ git diff --name-only = dizer o nome do arquivo que foi modificado
 
 7) desfazendo coisas
 
-git checkout Readme.md = voltar o arquivo para antes da edição caso faça merda
+git checkout Readme.md = voltar o arquivo para antes da edição caso faça algo errado
 
 git add e logo depois
 git reset HEAD Readme.md = tirar arquivo do pronto para ser checado
